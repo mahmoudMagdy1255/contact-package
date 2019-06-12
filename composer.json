@@ -1,0 +1,18 @@
+{
+    "name": "mego/contact",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mahmoud Magdy",
+            "email": "mahmoud.magdy1255@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Mego\\Contact\\": "src/",
+        }
+    }
+}
